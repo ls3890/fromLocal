@@ -10,3 +10,12 @@ const b= ()=>{
 
     
 }
+const c= ()=>{
+
+    
+    alert("cccc")
+
+ 
+
+    
+}
