@@ -2,6 +2,6 @@ const a= ()=>{
     alert("hi")
 }
 const b= ()=>{
-    return 6
+    alert("6")
     
 }
