@@ -1,0 +1,73 @@
+[33mcommit e46d19eed47b7e4700f5cda6545011a6f2e61fd3[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: ls3890 <l0583233890@gmail.com>
+Date:   Wed Dec 3 22:04:52 2025 +0200
+
+    add fils
+
+[33mcommit 2b83370266e28e43ed1fe9215a6631014a64a8e6[m
+Author: ls3890 <l0583233890@gmail.com>
+Date:   Wed Dec 3 20:32:50 2025 +0200
+
+    small change
+
+[33mcommit c927231577c00e4ce18adb7250132cabb46a2d6b[m
+Merge: eaf2d5c 734b8c8
+Author: ls3890 <l0583233890@gmail.com>
+Date:   Tue Dec 2 15:41:47 2025 +0200
+
+    fix conflict
+
+[33mcommit eaf2d5c0e97102064c1270fc7d784c5325be6999[m
+Author: ls3890 <l0583233890@gmail.com>
+Date:   Tue Dec 2 15:38:59 2025 +0200
+
+    change
+
+[33mcommit 734b8c84b1fae477ec85a108baecd836164f2158[m[33m ([m[1;31morigin/newFeather5[m[33m, [m[1;32mnewFeather5[m[33m)[m
+Author: ls3890 <l0583233890@gmail.com>
+Date:   Tue Dec 2 15:37:45 2025 +0200
+
+    change
+
+[33mcommit 1950577b5456f80ec661ed57c41956554923c4c1[m
+Merge: 3336f1b 554f0f8
+Author: ls3890 <l0583233890@gmail.com>
+Date:   Tue Dec 2 15:33:50 2025 +0200
+
+    change the merge 4 to main
+
+[33mcommit 3336f1b3d28a195086590beb0a2b6881e578db4e[m
+Author: ls3890 <l0583233890@gmail.com>
+Date:   Tue Dec 2 15:30:05 2025 +0200
+
+    add alert function1
+
+[33mcommit 554f0f8e7efd22b987dc4fea8f2b4a72ba010d1d[m[33m ([m[1;31morigin/newFeather4[m[33m, [m[1;32mnewFeather4[m[33m)[m
+Author: ls3890 <l0583233890@gmail.com>
+Date:   Tue Dec 2 15:28:49 2025 +0200
+
+    change b function
+
+[33mcommit 0a425946ea8bf19ef240c21267154e1dff9a6611[m
+Author: ls3890 <l0583233890@gmail.com>
+Date:   Tue Dec 2 15:27:25 2025 +0200
+
+    add hello
+
+[33mcommit 83b6f164044da8e9e7d79ed1c353a3957257e178[m
+Author: ls3890 <l0583233890@gmail.com>
+Date:   Tue Dec 2 15:15:25 2025 +0200
+
+    add file2.txt
+
+[33mcommit 61132c07d535d46a706e226e973b72ef25a32201[m
+Author: ls3890 <l0583233890@gmail.com>
+Date:   Tue Dec 2 15:13:02 2025 +0200
+
+    add file1.txt
+
+[33mcommit 833cc98b4321fcff7442890cbec61bad4995b8aa[m
+Author: ls3890 <l0583233890@gmail.com>
+Date:   Tue Dec 2 15:02:23 2025 +0200
+
+    add index and main file
